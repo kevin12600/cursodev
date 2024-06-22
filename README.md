@@ -1,3 +1,3 @@
 # #curso de git
 
-cambios para el commit.
+cambios para el comm
